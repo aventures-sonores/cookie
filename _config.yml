@@ -2,7 +2,7 @@ title: Aventures Sonores
 description: > # this means to ignore newlines until "show_excerpts:"
  We are AVENTURES SONORES, a creative collective group that blends art and technology to make physical and digital (phygital) experiential adventures. We strongly believe that listening is not only a way to receive and decode information, but mediates all of our relationships: with others, with the environment, with society in general, and even with ourselves.
 baseurl: "/"
-url: https://aventuresonores.com # change this URL, this is needed for generating right sitemap
+url: "" # change this URL, this is needed for generating right sitemap
 
 permalink: "/blog/:title/"
 
